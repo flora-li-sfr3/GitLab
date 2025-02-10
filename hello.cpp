@@ -4,7 +4,7 @@
 using namespace std;
 
 int main () {
-  cout << "        Hello Wo               " << endl;
+  cout << "        Hello W               " << endl;
 
   MyClass a(5);
   cout << a.getX() << endl;
